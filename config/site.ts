@@ -5,7 +5,7 @@ export type SiteConfig = typeof siteConfig;
 export const siteConfig = {
   name: CONFIG.SITE_NAME,
   shortName: CONFIG.SITE_SHORTNAME,
-  description: "A secure authentication solution built with Next.js and Django REST framework.",
+  description: "A Next.js and Hero UI boilerplate for modern, secure web apps with Tailwind CSS and TypeScript.",
   navItems: [
     {
       label: "Home",

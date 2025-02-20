@@ -1,7 +1,6 @@
-# NextDjangoAuth
+# NextHeroUI
 
-A secure authentication solution built with Next.js and Django REST framework, providing seamless user login,
-registration, and access control with modern security features.
+A boilerplate project using Next.js and Hero UI for building modern, secure web applications with Tailwind CSS and TypeScript.
 
 ## Technologies Used
 

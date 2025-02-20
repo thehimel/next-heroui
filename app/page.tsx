@@ -11,14 +11,11 @@ export default function Home() {
   return (
     <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
       <div className="inline-block max-w-xl text-center justify-center">
-        <span className={title()}>Integrate&nbsp;</span>
-        <span className={title({ color: "violet" })}>authentication&nbsp;</span>
+        <span className={title()}>Start building&nbsp;</span>
+        <span className={title({ color: "violet" })}>stunning&nbsp;</span>
         <br />
-        <span className={title()}>effortlessly, regardless of your experience.</span>
-        <div className={subtitle({ class: "mt-4" })}>
-          Authentication simplified with <span className="text-blue-500">Next.js</span> and{" "}
-          <span className="text-green-500">Django</span>.
-        </div>
+        <span className={title()}>web apps fast, without any complex setup.</span>
+        <div className={subtitle({ class: "mt-4" })}>Secure, fast, and flexible Next.js and Hero UI boilerplate.</div>
       </div>
 
       <div className="flex gap-3">
